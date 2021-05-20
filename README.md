@@ -1,5 +1,6 @@
 # Mines
- This is the game commonly known as 'Sapper'. Open the cells and try not to explose. The bot-helper is added - just click the mouse wheel.
+ This is the game commonly known as 'Sapper'. Open the cells with a left button of the mouse and try not to explose. Numbers in the cells indicate how many mines are nearby.
+ Click the right button to flag the suspicious cell. The bot-helper is added - just click the mouse wheel.
 ## Installation
 API:29
 
