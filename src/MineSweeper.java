@@ -112,7 +112,7 @@ public class MineSweeper extends JFrame
     private void initFrame ()
     {
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); //заканчивает работу программы при закрытии окна
-        setTitle("Java Sweeper 2000 Volosatov"); //установка заголовка
+        setTitle("Mines"); //установка заголовка
         setResizable(false); // окно не будет менять размер
         setVisible(true); // устанавливаем, что окно будет видно
         pack(); //метод из класса JFrame устанавливает размер окна достаточный для отображения
